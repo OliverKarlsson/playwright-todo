@@ -1,0 +1,14 @@
+{
+  "name": "playwright-todo-cli",
+  "version": "1.17.135",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "setup-playwright-todo": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
